@@ -1,0 +1,3 @@
+[submodule "spring-web"]
+	path = spring-web
+	url = git@github.com:uday510/spring-web.git
