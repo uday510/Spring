@@ -1,3 +1,6 @@
 [submodule "spring-web"]
 	path = spring-web
 	url = git@github.com:uday510/spring-web.git
+[submodule "spring-core"]
+	path = spring-core
+	url = git@github.com:uday510/spring-core.git
