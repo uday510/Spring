@@ -5,6 +5,4 @@ import org.springframework.context.annotation.Configuration;
 
 @ComponentScan(basePackages = "beans")
 @Configuration
-public class ProjectConfig {
-
-}
+public class ProjectConfig { }
